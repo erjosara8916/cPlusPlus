@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1538273694 source:c:\users\codea\onedrive\documentos\asd\progra\x0\main.cpp
+	<Juego.h>
+
+1538098469 c:\users\codea\onedrive\documentos\asd\progra\x0\include\basicoperatios.h
+	<string>
+
+1538098479 source:c:\users\codea\onedrive\documentos\asd\progra\x0\src\basicoperatios.cpp
+	"BasicOperatios.h"
+	<string>
+	<iostream>
+
+1538264029 source:c:\users\codea\onedrive\documentos\asd\progra\x0\src\casilla.cpp
+	<string>
+	<iostream>
+	"Casilla.h"
+
+1538232767 c:\users\codea\onedrive\documentos\asd\progra\x0\include\casilla.h
+	<string>
+
+1538264029 source:c:\users\codea\onedrive\documentos\asd\progra\x0\src\tablero.cpp
+	"Tablero.h"
+	<Casilla.h>
+	<iostream>
+
+1538235480 c:\users\codea\onedrive\documentos\asd\progra\x0\include\tablero.h
+	<Casilla.h>
+	<array>
+
+1538265051 source:c:\users\codea\onedrive\documentos\asd\progra\x0\src\basicoperations.cpp
+	"BasicOperations.h"
+	<string>
+	<iostream>
+
+1538264029 c:\users\codea\onedrive\documentos\asd\progra\x0\include\basicoperations.h
+	<string>
+	<array>
+
+1538274576 source:c:\users\codea\onedrive\documentos\asd\progra\x0\src\juego.cpp
+	"Juego.h"
+	<iostream>
+	<string>
+	<array>
+	<windows.h>
+	"Jugador.h"
+	"BasicOperations.h"
+
+1538264029 c:\users\codea\onedrive\documentos\asd\progra\x0\include\juego.h
+	<Jugador.h>
+	<array>
+	<Tablero.h>
+
+1538264029 c:\users\codea\onedrive\documentos\asd\progra\x0\include\jugador.h
+	<string>
+
+1538264029 source:c:\users\codea\onedrive\documentos\asd\progra\x0\src\jugador.cpp
+	"Jugador.h"
+	<iostream>
+	<string>
+	"BasicOperations.h"
+

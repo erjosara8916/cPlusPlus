@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1537902078 source:c:\users\codea\onedrive\documentos\asd\progra\telefonia\main.cpp
+	<iostream>
+	<Tarifa.h>
+	<llamada.h>
+	<windows.h>
+
+1537840822 c:\users\codea\onedrive\documentos\asd\progra\telefonia\include\tarifa.h
+
+1537898562 source:c:\users\codea\onedrive\documentos\asd\progra\telefonia\src\tarifa.cpp
+	"Tarifa.h"
+	<iostream>
+
+1537842028 source:c:\users\codea\onedrive\documentos\asd\progra\telefonia\src\llamada.cpp
+	"llamada.h"
+	"Tarifa.h"
+	<iostream>
+	<array>
+
+1537899626 c:\users\codea\onedrive\documentos\asd\progra\telefonia\include\llamada.h
+
+1537818238 source:c:\users\codea\onedrive\documentos\asd\progra\telefonia\src\program.cpp
+	"program.h"
+
+1537818552 c:\users\codea\onedrive\documentos\asd\progra\telefonia\include\program.h
+
+1537838024 source:c:\users\codea\onedrive\documentos\asd\progra\telefonia\src\validaciones.cpp
+	"validaciones.h"
+	<string>
+
+1537838448 c:\users\codea\onedrive\documentos\asd\progra\telefonia\include\validaciones.h
+

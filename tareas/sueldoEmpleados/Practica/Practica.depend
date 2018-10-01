@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537903931 source:c:\users\codea\documents\a\c++\practica\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	<array>
+	<iomanip>
+	<fstream>
+
+1536825484 c:\users\codea\documents\a\c++\practica\include\empleado.h
+	<iostream>
+	<string>
+	<iomanip>
+	"Basic.h"
+
+1536825958 c:\users\codea\documents\a\c++\practica\include\basic.h
+	<iostream>
+	<string.h>
+
+1536826034 source:c:\users\codea\documents\a\c++\practica\src\empleado.cpp
+

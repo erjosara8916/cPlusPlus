@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537901846 source:c:\users\codea\onedrive\documentos\asd\progra\bebidas\main.cpp
+	<iostream>
+	<string.h>
+	<array>
+
+1537847313 c:\users\codea\onedrive\documentos\asd\progra\bebidas\include\bebida.h
+
+1537847322 source:c:\users\codea\onedrive\documentos\asd\progra\bebidas\src\bebida.cpp
+	"bebida.h"
+

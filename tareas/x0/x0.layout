@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\Tablero.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2326" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="381" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\BasicOperations.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="715" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="include\BasicOperatios.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="211" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Juego.h" open="1" top="1" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2114" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="include\Tablero.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="408" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="src\BasicOperatios.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="229" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Juego.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6375" topLine="125" />
+		</Cursor>
+		<Folding>
+			<Collapse line="64" />
+			<Collapse line="191" />
+			<Collapse line="209" />
+			<Collapse line="228" />
+			<Collapse line="253" />
+		</Folding>
+	</File>
+	<File name="include\BasicOperations.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="481" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Jugador.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Casilla.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="588" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="src\Casilla.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="862" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="src\Jugador.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="942" topLine="9" />
+		</Cursor>
+	</File>
+	<Target name="Debug" top="include\Juego.h">
+		<File name="main.cpp" />
+		<File name="include\Casilla.h" />
+		<File name="src\Casilla.cpp" />
+		<File name="include\Tablero.h" />
+		<File name="src\Tablero.cpp" />
+		<File name="include\Jugador.h" />
+		<File name="src\Jugador.cpp" />
+		<File name="include\Juego.h" />
+		<File name="src\Juego.cpp" />
+		<File name="include\BasicOperations.h" />
+		<File name="src\BasicOperations.cpp" />
+	</Target>
+</CodeBlocks_layout_file>
