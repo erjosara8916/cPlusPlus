@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538658843 source:c:\users\codea\onedrive\documentos\github\cplusplus\practicas\sumadematrices\sumadematrices\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+

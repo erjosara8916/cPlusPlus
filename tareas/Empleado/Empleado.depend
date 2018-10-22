@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1540177542 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\empleado\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	<array>
+	<iomanip>
+	<fstream>
+	"Prestamo.h"
+
+1540093923 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\empleado\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<string>
+	"OperBasicas.h"
+
+1540092621 c:\users\codea\onedrive\documentos\github\cplusplus\tareas\empleado\include\empleado.h
+	<stdlib.h>
+	<string>
+
+1540091750 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\empleado\src\operbasicas.cpp
+	<iostream>
+	<string>
+	"OperBasicas.h"
+
+1540090210 c:\users\codea\onedrive\documentos\github\cplusplus\tareas\empleado\include\operbasicas.h
+	<iostream>
+	<string.h>
+
+1540176482 c:\users\codea\onedrive\documentos\github\cplusplus\tareas\empleado\include\prestamo.h
+
+1540176565 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\empleado\src\prestamo.cpp
+	"OperBasicas.h"
+	<iostream>
+	<string>
+	"Prestamo.h"
+
