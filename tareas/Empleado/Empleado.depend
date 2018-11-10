@@ -1,12 +1,11 @@
 # depslib dependency file v1.0
-1540177542 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\empleado\main.cpp
+1540184518 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\empleado\main.cpp
 	<iostream>
 	<windows.h>
 	<string.h>
 	<array>
 	<iomanip>
 	<fstream>
-	"Prestamo.h"
 
 1540093923 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\empleado\src\empleado.cpp
 	"Empleado.h"

@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1541820861 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\main.cpp
+	"sistema.h"
+
+1541718773 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\src\tiket.cpp
+	"Tiket.h"
+	"BasicOperations.h"
+	<iostream>
+	<winbgim.h>
+
+1541718733 c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\include\tiket.h
+	<string>
+
+1320920740 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\src\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1320920740 c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\include\miniwin.h
+	<iostream>
+
+1541857884 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\src\basicoperations.cpp
+	"BasicOperations.h"
+	<string>
+	<iostream>
+
+1541819388 c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\include\basicoperations.h
+	<string>
+	<array>
+
+1541858358 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\src\sistema.cpp
+	"Sistema.h"
+	<iostream>
+	<string>
+	<array>
+	"BasicOperations.h"
+	"Audio.h"
+	<windows.h>
+
+1541821702 c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\include\sistema.h
+	<string>
+	<array>
+
+1541880741 c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\include\audio.h
+	<string>
+
+1541858184 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\src\audio.cpp
+	"Audio.h"
+	<string>
+	<windows.h>
+
+1541728948 c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\include\recaudios.h
+	"Audio.h"
+	<array>
+
+1541728447 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\src\recaudios.cpp
+	"recAudios.h"
+

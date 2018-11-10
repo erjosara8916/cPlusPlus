@@ -1,0 +1,6 @@
+WM_SIZE
+400 300 
+New MemDC
+WM_PAINT
+New MemDC
+WM_PAINT

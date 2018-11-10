@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1320789884 source:c:\users\codea\onedrive\documentos\github\cplusplus\librerias\holaminiwin-windows\main.cpp
+	"miniwin.h"
+
+1320920740 c:\users\codea\onedrive\documentos\github\cplusplus\librerias\holaminiwin-windows\miniwin.h
+	<iostream>
+
+1320920740 source:c:\users\codea\onedrive\documentos\github\cplusplus\librerias\holaminiwin-windows\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
