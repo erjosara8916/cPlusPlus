@@ -42,18 +42,10 @@
 		<Unit filename="include/Audio.h" />
 		<Unit filename="include/BasicOperations.h" />
 		<Unit filename="include/Sistema.h" />
-		<Unit filename="include/Tiket.h">
-			<Option target="Release" />
-		</Unit>
-		<Unit filename="include/recAudios.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Audio.cpp" />
 		<Unit filename="src/BasicOperations.cpp" />
 		<Unit filename="src/Sistema.cpp" />
-		<Unit filename="src/Tiket.cpp">
-			<Option target="Release" />
-		</Unit>
-		<Unit filename="src/recAudios.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

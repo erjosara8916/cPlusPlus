@@ -58,6 +58,7 @@ array< Audio , 6 > otros  = {
 */
 Sistema::Sistema()
 {
+    system("color 06") ;
     otros[3].play( 2 ) ; // reproducir bienvenida
     msn = "\n\n                     BIENVENIDO AL SISTEMA DE COLAS \n\n" ;
     mostrarMensaje( msn , true ) ; // mostrar mensaje d ebienvenida
