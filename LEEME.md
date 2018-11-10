@@ -1,10 +1,10 @@
-#ACLARACIONES SOBRE LOS PROYECTOS
+# ACLARACIONES SOBRE LOS PROYECTOS
 
  ### 1. ESTRUCTURA
- Los proyectos an sido creado en __CodeBlocks__ por lo que todos tienen la siguiente estructura
+ > Los proyectos an sido creado en __CodeBlocks__ por lo que todos tienen la siguiente estructura
 * **Proyecto**
     * **bin**
-        * **debug** ; Aqui se  guarda la aplicacion ya compilada y los recursos que esta necesite
+        * **debug** :  Aqui se  guarda la aplicacion ya compilada y los recursos que esta necesite
             * **proyecto.exe**
             * ...
             
@@ -24,5 +24,11 @@
     * **proyecto.layout**
     * **main.cpp** : archivo principal de la aplicacion
 
-### 2. EDICION
-El codigo puede ser visto en cualquier editor sin embargo se recomienda el uso de **codeblocks** ya que podras ver y editar el codigo sin hacer configuracion alguna
+### 2. SI TIENES CODEBLOCKS
+> El codigo puede ser visto en cualquier editor sin embargo se recomienda el uso de **codeblocks** ya que podras ver y editar el codigo sin hacer configuracion alguna
+
+### 3. SI NO TIENES CODEBLOCKS
+> Puedes ver el codigo utilizado inspeccionando los archivos fuente y el resultado final abriendo el archivo.exe 
+
+### 4. COMPILADOR UTILIZADO
+> GNU GCC Compiler
