@@ -67,8 +67,8 @@ Sistema::Sistema()
     // definir las opciones del menu
     menu1 = {
        "generar numero" ,
-       "llamar numero" ,
-       "mostrar numero atendido" ,
+       "llamar nuevo tiket" ,
+       "volver a llamar" ,
        "salir"
     } ;
 
