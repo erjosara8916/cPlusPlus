@@ -17,10 +17,12 @@
 using namespace std;
 
 int main(){
+
     char cadena[128];
     ofstream fs("nombre.txt") ;
     fs << "hola mundo" ;
     fs.close();
+    system("pause") ;
     return 0;
 
 }

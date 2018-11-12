@@ -72,3 +72,36 @@
 1541728447 source:c:\users\codea\onedrive\documentos\github\cplusplus\tareas\sistemacola\src\recaudios.cpp
 	"recAudios.h"
 
+1542042119 source:c:\users\codea\documents\github\cplusplus\tareas\sistemacola\main.cpp
+	"sistema.h"
+
+1542042119 c:\users\codea\documents\github\cplusplus\tareas\sistemacola\include\sistema.h
+	<string>
+	<array>
+
+1542042119 source:c:\users\codea\documents\github\cplusplus\tareas\sistemacola\src\audio.cpp
+	"Audio.h"
+	<string>
+	<windows.h>
+
+1542042119 c:\users\codea\documents\github\cplusplus\tareas\sistemacola\include\audio.h
+	<string>
+
+1542042119 source:c:\users\codea\documents\github\cplusplus\tareas\sistemacola\src\basicoperations.cpp
+	"BasicOperations.h"
+	<string>
+	<iostream>
+
+1542042119 c:\users\codea\documents\github\cplusplus\tareas\sistemacola\include\basicoperations.h
+	<string>
+	<array>
+
+1542042119 source:c:\users\codea\documents\github\cplusplus\tareas\sistemacola\src\sistema.cpp
+	"Sistema.h"
+	<iostream>
+	<string>
+	<array>
+	"BasicOperations.h"
+	"Audio.h"
+	<windows.h>
+

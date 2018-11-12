@@ -1,34 +1,32 @@
 
-#include<iostream> // poder usar "cin" y "cout"
-
+#include <iostream>
 using namespace std;
 
-int factorial ( int num ) {
-
+int factorial( int num ) {
+    int fact = 1 ;
+    for (i = 1; i <= num; i++){
+         fact = fact*i;
+    }
+    return fact ;
 }
 
-int main(){
+int main(void){
 
-    int num;
-    int factorial = 1 ;
-    cout << "ingresa un numero : " ;
-    cin >> num ;
-    while( cin.fail() || num < 1 ){
-        cin.clear() ;
-        cin.ignore( 1000 , '\n' ) ;
-        cout << "ingresa un numero : " ;
-        cin >> num ;
-        cout << endl ;
-    }
+   int i;
+   int fact=1;
+   int numero;
+   cout<<"ingresa un numero: ";
+   cin>>numero;
 
-    system("cls") ;
-
-    //calcular factorial
-    for ( int i = 1 ; i <= num ; i++ ){
-        factorial *= i ;
-    }
-
-    cout << "el factorial de " << num << " es  : " << factorial << endl;
-    system("pause");
-    return 0;
+   if(numero<0){
+        fact =0;
+   }
+   else if(numero==0){
+        fact=1;
+   }
+   else{
+      fact = factorial(numero) ;
+   }
+   cout << "Factorial de " << numero << " es : " << fact;
+   system("pause");
 }
