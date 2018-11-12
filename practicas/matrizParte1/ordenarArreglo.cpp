@@ -9,58 +9,56 @@
     Descripcion : ordenar los elementos de un arreglo
 
 *****************************************************************/
-#include<iostream> // para usar "cout" y "cin"
-#include<conio.h>
-#include<time.h>
+#include <stdio.h>
+ #include <conio.h>
+ #include <iostream>
 
-#define SIZE 10
+ using namespace std;
+ void ordenar (int arreglo[])
+ {
+ int i, j, temporal;
+ int arreglo[10] = {}; 
+ for(j=1;j<=tam;j++)
+ {
+ for(i=0;i<tam-1;i++)
+ {
+ if(arreglo>arreglo[i+1])
+ {
+ temporal=arreglo;
+ arreglo=arreglo[i+1];
+ arreglo[i+1]=temporal;
+ }
+ }
+ }
+ }
 
-using namespace std;
+ void imprimir(int arreglo[])
+ {
+ int i, j;
+ int arreglo[tam];
+ cout<<"\nArreglo ordenado de menor a mayor\n";
+ for (i=0;i<tam;i++)
+ {
+ cout<<arreglo<<" ";
+ cout <<endl; 
+ }
+ }
 
-int main(){
+ int main()
+ { 
+ int arreglo[tam];
+ int i,j, temporal; 
+ for (i=0;i<tam;i++)
+ {
+ cout<<"Ingrese el numero "<<i+1<<":";
+ cin>>arreglo;
+ } 
 
-    cout << "array values : 132, 520, 210, 510, 140, 125, 52, 96, 55, 85 \n" << endl;
-
-    int array[SIZE] = { 135 , 520 , 210 , 510 , 140 , 125 , 52 , 96 , 55 , 85 } ;
-
-    cout << "sorted values : " << endl;
-
-    int numero = 0 ;
-    srand(time(NULL)) ;
-    int array[SIZE] ;
-    //llenar arreglo
-    for ( int i = 0 ; i < SIZE ; i++ ){
-
-        numero = rand() / 100 % 10 + 1 ;
-        array[i] = numero ;
-        cout << numero << endl;
-
-    }
-
-    //ordenar los valores del arreglo
-    for ( int startIndex = 0 ; startIndex < SIZE ; startIndex++ ){
-
-        int smallestIndex = startIndex ;
-
-        //nowIndex
-        for ( int nowIndex = startIndex + 1 ; nowIndex < SIZE ; nowIndex++ ){
-
-            if ( array[nowIndex] < array[smallestIndex] ) {
-                smallestIndex = nowIndex ;
-            }
-
-        }
-
-        swap( array[startIndex] , array[] ) ;
-
-    }
-
-    //mostrar el arreglo
-    for ( int i = 0 ; i < SIZE ; i++ ){
-
-        cout << array[i] << ", " ;
-
-    }
-
-    return 0;
-}
+ ordenar(arreglo);
+ imprimir(arreglo);
+ cout<<endl;
+ imprimir(arreglo);
+ getch(); 
+ system("PAUSE"); 
+ return 0;
+ }

@@ -5,15 +5,10 @@ using namespace std;
 int main()
 {
     /****************************************************************
-
     Autor : Erick Josue Saravia Aragon
-
     N° Carnet : SA18004
-
     Fecha : 2018-11-06
-
     Descripcion : ordenar los elementos de un arreglo
-
 *****************************************************************/
 
 #include<iostream> // para usar "cout" y "cin"
@@ -53,7 +48,7 @@ using namespace std;
     for ( int i = 0 ; i <= 4 ; i++ ){
         cout <<"arreglado : " << vector[i] << " " << endl;
     }
+    system("pause") ;
     return 0;
 
 }
-

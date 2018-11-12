@@ -6,6 +6,7 @@ carnet : sa18004
 #include <iostream>
 #include <string>
 #include<fstream> // trabajo con ficheros
+#include<windows.h>
 
 using namespace std;
 
@@ -84,6 +85,5 @@ int main()
     ofstream fs("reporte.txt") ;
     fs<< msn<<endl ;
     fs.close();
-
     return 0;
 }
