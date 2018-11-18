@@ -34,3 +34,8 @@ La aplicacion cuenta con las siguientes opciones :
 * Ingrese desde el navegador a phpMyAdmin
 * Seleccione la opcion de importar, tomando el archivo sysventas.sql como objetivo
 * Ahora puede revisar y ejecutar la aplicacion 
+***
+# VER DEMOSTRACION
+***
+    HAZ CLICK SOBRE LA IMAGEN PARA VER EL VIDEO
+[![capvideo](https://user-images.githubusercontent.com/39475739/48675266-6f141980-eb1c-11e8-96e9-081071c6c12b.JPG " HAZ CLICK PARA DEMOSTRACION DE LA APLICACION")](https://youtu.be/YQwrjPc55FA) 
