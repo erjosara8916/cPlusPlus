@@ -22,7 +22,7 @@ La aplicacion cuenta con las siguientes opciones :
 * **generales**
 
 ![ configuraciones del compilador]
-        cPlusPlus/tareas/SistemaVentasDB/img/cofig.JPG?raw=true "configuracion del compilador")
+        (cPlusPlus/tareas/SistemaVentasDB/img/cofig.jpg?raw=true "configuracion del compilador")
     ![ configuracion de librerias](img/config2.jpg?raw=true "configuracion de las librerias")
     ![ configuracion de cabeceras](img/config3.jpg?raw=true "configuracion de las cabeceras")
 
