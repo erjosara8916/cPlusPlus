@@ -22,19 +22,13 @@ La aplicacion cuenta con las siguientes opciones :
 * **generales**
 
 ![ configuraciones del compilador](
-        cPlusPlus/tareas/SistemaVentasDB/img/cofig.JPG
-      /cofig.jpg "imgen")
+        cPlusPlus/tareas/SistemaVentasDB/img/cofig.jpg "imgen")
     ![ configuracion de loibrerias](
-        cPlusPlus/tareas/SistemaVentasDB/img/cofig.JPG
-      /config2.jpg "imgen")
-    ![ configuracion de cabeceras](
-        cPlusPlus/tareas/SistemaVentasDB/img/cofig.JPG
-      /config3.jpg "imgen")
+        cPlusPlus/tareas/SistemaVentasDB/img/config2.jpg "imgen")
+    ![ configuracion de cabeceras](cPlusPlus/tareas/SistemaVentasDB/img/config3.jpg "imgen")
 
 * **Del proyecto**
-![ configuracion de cabeceras](
-        cPlusPlus/tareas/SistemaVentasDB/img/cofig.JPG
-      /config4.jpg "imgen")
+![ configuracion de cabeceras](cPlusPlus/tareas/SistemaVentasDB/img/config4.jpg "imgen")
 
 ***
 # PREPARANDO EL ENTORNO
