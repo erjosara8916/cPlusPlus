@@ -20,14 +20,12 @@ La aplicacion cuenta con las siguientes opciones :
 
 
 * **generales**
-
-![ configuraciones del compilador]
-        (cPlusPlus/tareas/SistemaVentasDB/img/cofig.jpg?raw=true "configuracion del compilador")
-    ![ configuracion de librerias](img/config2.jpg?raw=true "configuracion de las librerias")
-    ![ configuracion de cabeceras](img/config3.jpg?raw=true "configuracion de las cabeceras")
+![configuracion de linker](https://user-images.githubusercontent.com/39475739/48673099-872b6f00-eb03-11e8-938a-d01d159b6aa7.JPG "configuracion de linker")
+![configuracion de librerias](https://user-images.githubusercontent.com/39475739/48673127-d07bbe80-eb03-11e8-8b69-617c9ce194e2.JPG "configuracion de librerias")
+![configuracion de cabeceras](https://user-images.githubusercontent.com/39475739/48673148-0e78e280-eb04-11e8-9234-c474b4d7a5f7.JPG "configuracion de cabeceras")
 
 * **Proyecto**
-![ configuracion de parametros del compilador](img/config4.jpg?raw=true "configurar parametros a la hora de compilar")
+![parametros de compilacion de proyecto](https://user-images.githubusercontent.com/39475739/48673159-294b5700-eb04-11e8-9308-5f4f70a530ab.JPG "parametros de compilacion de proyecto")
 
 ***
 # PREPARANDO EL ENTORNO
