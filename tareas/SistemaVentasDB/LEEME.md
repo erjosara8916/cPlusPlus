@@ -21,12 +21,20 @@ La aplicacion cuenta con las siguientes opciones :
 
 * **generales**
 
-![ configuraciones del compilador](https://github.com/erjosara8916/cPlusPlus/tree/master/tareas/SistemaVentasDB/img/cofig.jpg "imgen")
-    ![ configuracion de loibrerias](https://github.com/erjosara8916/cPlusPlus/tree/master/tareas/SistemaVentasDB/img/config2.jpg "imgen")
-    ![ configuracion de cabeceras](https://github.com/erjosara8916/cPlusPlus/tree/master/tareas/SistemaVentasDB/img/config3.jpg "imgen")
+![ configuraciones del compilador](
+        cPlusPlus/tareas/SistemaVentasDB/img/cofig.JPG
+      /cofig.jpg "imgen")
+    ![ configuracion de loibrerias](
+        cPlusPlus/tareas/SistemaVentasDB/img/cofig.JPG
+      /config2.jpg "imgen")
+    ![ configuracion de cabeceras](
+        cPlusPlus/tareas/SistemaVentasDB/img/cofig.JPG
+      /config3.jpg "imgen")
 
 * **Del proyecto**
-![ configuracion de cabeceras](https://github.com/erjosara8916/cPlusPlus/tree/master/tareas/SistemaVentasDB/img/config4.jpg "imgen")
+![ configuracion de cabeceras](
+        cPlusPlus/tareas/SistemaVentasDB/img/cofig.JPG
+      /config4.jpg "imgen")
 
 ***
 # PREPARANDO EL ENTORNO
