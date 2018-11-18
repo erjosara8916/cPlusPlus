@@ -21,12 +21,12 @@ La aplicacion cuenta con las siguientes opciones :
 
 * **generales**
 
-![ configuraciones del compilador](img/cofig.jpg "configuracion del compilador")
-    ![ configuracion de librerias](img/config2.jpg "configuracion de las librerias")
-    ![ configuracion de cabeceras](img/config3.jpg "configuracion de las cabeceras")
+![ configuraciones del compilador](img/cofig.jpg?raw=true "configuracion del compilador")
+    ![ configuracion de librerias](img/config2.jpg?raw=true "configuracion de las librerias")
+    ![ configuracion de cabeceras](img/config3.jpg?raw=true "configuracion de las cabeceras")
 
 * **Proyecto**
-![ configuracion de parametros del compilador](img/config4.jpg "configurar parametros a la hora de compilar")
+![ configuracion de parametros del compilador](img/config4.jpg?raw=true "configurar parametros a la hora de compilar")
 
 ***
 # PREPARANDO EL ENTORNO
