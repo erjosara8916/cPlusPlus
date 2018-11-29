@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1543446501 source:c:\users\codea\onedrive\documentos\tareas\parcialprogra\main.cpp
+	<iostream>
+	<Panel.h>
+
+1543448805 source:c:\users\codea\onedrive\documentos\tareas\parcialprogra\src\operacionesbasicas.cpp
+	"OperacionesBasicas.h"
+	<string>
+	<iostream>
+
+1543448881 c:\users\codea\onedrive\documentos\tareas\parcialprogra\include\operacionesbasicas.h
+	<string>
+	<array>
+
+1543456263 source:c:\users\codea\onedrive\documentos\tareas\parcialprogra\src\panel.cpp
+	"Panel.h"
+	"OperacionesBasicas.h"
+	"TorreHanoi.h"
+
+1543456218 c:\users\codea\onedrive\documentos\tareas\parcialprogra\include\panel.h
+	<iostream>
+	<array>
+	<string.h>
+	"TorreHanoi.h"
+	"MetodoBurbuja.h"
+
+1543457091 c:\users\codea\onedrive\documentos\tareas\parcialprogra\include\torrehanoi.h
+	<array>
+	<iostream>
+	<string>
+
+1543457030 source:c:\users\codea\onedrive\documentos\tareas\parcialprogra\src\torrehanoi.cpp
+	"TorreHanoi.h"
+	"OperacionesBasicas.h"
+
+1543454476 c:\users\codea\onedrive\documentos\tareas\parcialprogra\include\metodoburbuja.h
+	<array>
+	<iostream>
+	<string>
+
+1543454466 source:c:\users\codea\onedrive\documentos\tareas\parcialprogra\src\metodoburbuja.cpp
+	"MetodoBurbuja.h"
+	<stdlib.h>
+	<time.h>
+	<OperacionesBasicas.h>
+
