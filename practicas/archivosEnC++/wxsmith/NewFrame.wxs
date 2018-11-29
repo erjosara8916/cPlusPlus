@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxFrame" name="NewFrame">
+		<object class="wxCalendarCtrl" name="ID_CALENDARCTRL1" variable="CalendarCtrl1" member="yes">
+			<pos>120,120</pos>
+		</object>
+	</object>
+</wxsmith>

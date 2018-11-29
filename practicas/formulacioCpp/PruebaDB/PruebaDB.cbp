@@ -2,21 +2,25 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="archivosEnC++" />
+		<Option title="PruebaDB" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/archivosEnC++" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/PruebaDB" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="C:/wamp64/bin/mysql/mysql5.7.23/include" />
 				</Compiler>
+				<Linker>
+					<Add directory="C:/wamp64/bin/mysql/mysql5.7.23/lib" />
+				</Linker>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/archivosEnC++" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/PruebaDB" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,21 +36,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="NewFrame.cpp" />
-		<Unit filename="NewFrame.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="main.h" />
-		<Unit filename="wxsmith/NewFrame.wxs" />
 		<Extensions>
 			<code_completion />
 			<envvars />
 			<debugger />
 			<lib_finder disable_auto="1" />
-			<wxsmith version="1">
-				<resources>
-					<wxFrame wxs="wxsmith/NewFrame.wxs" src="NewFrame.cpp" hdr="NewFrame.h" fwddecl="0" i18n="1" name="NewFrame" language="CPP" />
-				</resources>
-			</wxsmith>
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>

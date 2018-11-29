@@ -16,13 +16,12 @@ int main()
 using namespace std;
 
 
-    int vector[5] ;
+    int vector[100] ;
     int i , j , temp ;
 
     //llenando el vector
     for ( int i = 0 ; i <= 4 ; i++ ){
-        cout << i + 1 << " : " << endl;
-        cin >> vector[i] ;
+        vector[i] = 5    ;
         cout << "\n" << endl;
     }
 

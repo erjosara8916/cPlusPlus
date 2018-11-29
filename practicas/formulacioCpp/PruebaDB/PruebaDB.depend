@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1542645441 source:c:\users\codea\onedrive\documentos\github\cplusplus\practicas\formulaciocpp\pruebadb\main.cpp
+	<iostream>
+	<mysql.h>
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\mysql.h
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"mysql/client_plugin.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1528486224 c:\wamp64\bin\mysql\mysql5.7.23\include\mysql_version.h
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\mysql_com.h
+	"binary_log_types.h"
+	"my_command.h"
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\binary_log_types.h
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\my_command.h
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\mysql_time.h
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\my_list.h
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\typelib.h
+	"my_alloc.h"
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\my_alloc.h
+	"mysql/psi/psi_memory.h"
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\mysql\psi\psi_memory.h
+	"psi_base.h"
+
+1528480588 c:\wamp64\bin\mysql\mysql5.7.23\include\mysql\psi\psi_base.h
+
